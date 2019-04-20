@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Survey_App</string>
+
+    <string-array name="names">
+        <item>Pick a Store</item>
+        <item>Walmart</item>
+        <item>Target</item>
+        <item>Moes</item>
+        <item>Krogers</item>
+        <item>Dunkin Donuts</item>
+    </string-array>
+
+</resources>
