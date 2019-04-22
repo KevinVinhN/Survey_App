@@ -1,4 +1,4 @@
-package com.example.survey_app;
+package com.example.proj;
 
 import org.junit.Test;
 

@@ -1,13 +1,53 @@
 <resources>
-    <string name="app_name">Survey_App</string>
 
-    <string-array name="names">
-        <item>Pick a Store</item>
+    <!--Universal-->
+    <string name="app_name">ProJ</string>
+
+    <!--Login Screen-->
+    <string name="loginEmailField">E-mail Address</string>
+    <string name="loginPasswordField">Password</string>
+    <string name="loginButtonText">Log In</string>
+    <string name="registerButtonText">Register</string>
+
+    <!--Register Screen-->
+    <string name="registerEmailField">E-mail Address</string>
+    <string name="registerPasswordField">Password</string>
+    <string name="signUpButtonText">Sign Up</string>
+    <string name="hasAccountButtonText">Already have account? Sign In</string>
+    
+    
+    <!--Profile Strings-->
+    <string name="picturePrompt">Choose profile picture by tapping picture below</string>
+    <string name="picSetDesc">Clickable to set profile pic</string>
+    <string name="displayNameField">Enter Display Name</string>
+    <string name="saveButtonText">Save</string>
+
+
+    <!--Store Picker Screen-->
+    <string-array name="storeNames">
+        <item>Select store</item>
+        <item>Moe\'s</item>
+        <item>Publix</item>
+        <item>Kroger</item>
         <item>Walmart</item>
-        <item>Target</item>
-        <item>Moes</item>
-        <item>Krogers</item>
-        <item>Dunkin Donuts</item>
+        <item>Dunkin\' Donuts</item>
     </string-array>
+
+
+    <!--
+
+
+
+    <string name="emailField">E-mail Address</string>
+    <string name="emailField">E-mail Address</string>
+    <string name="emailField">E-mail Address</string>
+    <string name="emailField">E-mail Address</string>
+    <string name="emailField">E-mail Address</string>
+    <string name="emailField">E-mail Address</string>
+    <string name="emailField">E-mail Address</string>
+    <string name="emailField">E-mail Address</string>
+    <string name="emailField">E-mail Address</string>
+
+    -->
 
 </resources>
