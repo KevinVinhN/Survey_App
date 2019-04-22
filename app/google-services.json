@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551849947154",
+    "firebase_url": "https://pransurvey-90922.firebaseio.com",
+    "project_id": "pransurvey-90922",
+    "storage_bucket": "pransurvey-90922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551849947154:android:a1a5b3e9357e2e35",
+        "android_client_info": {
+          "package_name": "com.example.loadsurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551849947154-nf05t8kqkdidqgu39qgcrdqbd1aej8f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaUgfs6ZHmRtO9jpWourvpVozS6GI9wDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551849947154-nf05t8kqkdidqgu39qgcrdqbd1aej8f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
